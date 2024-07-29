@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/篮球场.png</file>
+    <file>icon/乒乓球场.png</file>
+    <file>icon/羽毛球场.png</file>
+    <file>icon/篮球.png</file>
+    <file>icon/乒乓球.png</file>
+    <file>icon/羽毛球.png</file>
+  </qresource>
+  <qresource prefix="新前缀">
+    <file>ress.qrc</file>
+  </qresource>
+</RCC>

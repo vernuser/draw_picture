@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/EC_文档-体育娱乐.png</file>
+    <file>icon/登录.png</file>
+    <file>icon/体育锻炼.png</file>
+    <file>icon/退出,出.png</file>
+    <file>icon/注册.png</file>
+  </qresource>
+  <qresource prefix="新前缀">
+    <file>ress.qrc</file>
+  </qresource>
+</RCC>

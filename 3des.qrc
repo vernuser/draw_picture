@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>icon/EC_文档-体育娱乐.png</file>
+    <file>icon/vip.png</file>
+    <file>icon/登录.png</file>
+    <file>icon/管理员_管理员列表.png</file>
+    <file>icon/篮球.png</file>
+    <file>icon/累计失约.png</file>
+    <file>icon/乒乓球.png</file>
+    <file>icon/体育锻炼.png</file>
+    <file>icon/体育馆.png</file>
+    <file>icon/退出,出.png</file>
+    <file>icon/用户.png</file>
+    <file>icon/羽毛球.png</file>
+    <file>icon/注册.png</file>
+    <file>icon/足球.png</file>
+  </qresource>
+</RCC>
